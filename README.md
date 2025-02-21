@@ -22,6 +22,6 @@ I’m passionate about **learning new technologies**, optimizing workflows, and 
 
 ## 📫 Let's Connect!  
 💼 [LinkedIn](https://www.linkedin.com/in/fabiovalente/)  
-📧 [Email](mailto:your.email@example.com)  
+📧 [Email](mailto:fabiomvalente@gmail.com)  
 
 Feel free to explore my repositories, contribute, or reach out! 🚀
