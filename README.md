@@ -21,7 +21,7 @@ With **20+ years of experience** in **software development and system integratio
 I’m passionate about **learning new technologies**, optimizing workflows, and **sharing knowledge** to help teams grow.  
 
 ## 📫 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/fabiovalente/)  
+💼 [LinkedIn](https://www.linkedin.com/in/fabiomvalente/)  
 📧 [Email](mailto:fabiomvalente@gmail.com)  
 
 Feel free to explore my repositories, contribute, or reach out! 🚀
